@@ -1,0 +1,24 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "task_title": "Task 1",
+            "task_description": "this is the description for task 1",
+            "category_id": 1
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Work" 
+        },
+        {
+            "id": 2,
+            "name": "Personal" 
+        },
+        {
+            "id": 3,
+            "name": "Urgent" 
+        }
+    ]
+}

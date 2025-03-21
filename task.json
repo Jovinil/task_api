@@ -2,9 +2,9 @@
     "tasks": [
         {
             "id": 1,
-            "task_title": "Task 1",
-            "task_description": "this is the description for task 1",
-            "category_id": 1
+            "title": "Task 1",
+            "description": "this is the description for task 1",
+            "categoryId": 1
         }
     ],
     "categories": [

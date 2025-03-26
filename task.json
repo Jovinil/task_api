@@ -3,20 +3,23 @@
         {
             "id": 1,
             "title": "Task 1",
-            "description": "this is the description for task 1",
-            "categoryId": 1
+            "description": "This is the description for task 1",
+            "categoryId": 1,
+            "deadline": "2023-10-30T12:00:00Z"
         },
         {
             "id": 2,
             "title": "Task 2",
-            "description": "this is the description for task 2",
-            "categoryId": 2
+            "description": "This is the description for task 2",
+            "categoryId": 2,
+            "deadline": "2023-11-05T12:00:00Z"
         },
         {
             "id": 3,
             "title": "Task 3",
-            "description": "this is the description for task 3",
-            "categoryId": 3
+            "description": "This is the description for task 3",
+            "categoryId": 3,
+            "deadline": "2023-11-10T12:00:00Z"
         }
     ],
     "categories": [
